@@ -139,3 +139,18 @@ Memory Techniques & When to Use Them
   How: “PEMDAS = Parentheses, Exponents, Multiplication, Division, Addition, Subtraction.”
   Best for: Order of operations, lists, formulas.
   When to use: Quick recall of ordered or related terms.
+
+
+Summary: Choosing the Right Technique
+---------------------------------------------------------------------------------------------
+Goal	                            |  Best Techniques
+---------------------------------------------------------------------------------------------
+Memorize lists in order	          |  Method of Loci, Peg system, Storytelling
+Remember numbers	                |  Major system, Chunking
+Understand deeply	                |  Feynman Technique, Elaboration, Generation Effect
+Learn languages	                  |  Keyword Method, Spaced Repetition, Visualization
+Prepare for exams	                |  Active Recall, Spaced Repetition, Retrieval Practice
+Big-picture understanding	        |  Mind Maps, Dual Coding
+Long-term durable memory	        |  Spaced Repetition, Active Recall, Interleaving
+---------------------------------------------------------------------------------------------
+
