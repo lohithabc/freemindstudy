@@ -1,0 +1,141 @@
+Memory Techniques & When to Use Them
+
+1. Active Recall
+  
+  What it is: Forcing yourself to retrieve information without looking at notes.
+  How: Close the book → recall/write/say what you learned → check accuracy.
+  Best for: Long-term retention, exam prep, reinforcing new learning.
+  When to use: After each study session and during reviews.
+
+2. Spaced Repetition
+
+  What it is: Reviewing material at increasing intervals (1 day → 3 days → 7 days → 1 month).
+  How: Use tools like Anki/Quizlet or schedule manual reviews.
+  Best for: Vocabulary, formulas, factual knowledge.
+  When to use: Over weeks/months to lock knowledge into long-term memory.
+
+3. Interleaving
+
+  What it is: Mixing different problem types or subjects instead of blocking.
+  How: Study algebra + geometry + calculus in one session instead of all algebra.
+  Best for: Subjects requiring problem-solving (math, programming, physics).
+  When to use: After the basics are understood; helps with transfer.
+
+4. Feynman Technique
+
+  What it is: Explaining a concept in simple terms as if to a child.
+  How: Write out explanation → find gaps → restudy → refine.
+  Best for: Complex concepts, theories, and understanding relationships.
+  When to use: After learning a concept to test true comprehension.
+
+5. Elaboration (Why & How Questions)
+
+  What it is: Linking new knowledge with existing knowledge.
+  How: Ask: Why does this work? How does it relate to X?
+  Best for: Deep understanding, making information meaningful.
+  When to use: While studying new concepts.
+
+6. Dual Coding
+
+  What it is: Combining words + visuals.
+  How: Turn notes into diagrams, charts, timelines, or sketches.
+  Best for: Visual learners, complex systems, history, biology, processes.
+  When to use: After reading notes/textbooks; during revision.
+
+7. Method of Loci (Memory Palace)
+
+  What it is: Storing items along a familiar route (house, street).
+  How: Visualize exaggerated images in specific locations.
+  Best for: Ordered lists, speeches, exam outlines, presentations.
+  When to use: When you must recall items in sequence.
+
+8. Peg System
+
+  What it is: Linking items to a pre-memorized list of “pegs” (1 = bun, 2 = shoe…).
+  How: Associate each item with its peg visually.
+  Best for: Numbered lists, steps, grocery items.
+  When to use: For quick recall of fixed small lists.
+
+9. Major System
+
+  What it is: Translating numbers → consonants → words → vivid images.
+  How: 1=T, 2=N, 3=M → 314 = “mat” → visualize.
+  Best for: Long numbers (phone numbers, dates, formulas).
+  When to use: Memorizing digits and numerical data.
+
+10. Chunking
+
+  What it is: Grouping items into meaningful units.
+  How: 20250908 → 2025 | 09 | 08.
+  Best for: Numbers, codes, sequences, phone numbers, step-by-step tasks.
+  When to use: Anytime information feels overwhelming.
+
+11. Storytelling / Linking
+
+  What it is: Linking items into a story.
+  How: Make each item interact bizarrely with the next.
+  Best for: Short sequential lists, facts, unrelated terms.
+  When to use: When info is random but can be visualized.
+
+12. Visualization & Imagery
+
+  What it is: Turning abstract concepts into vivid, sensory images.
+  How: Make it exaggerated, colorful, emotional.
+  Best for: Abstract concepts, names, vocabulary.
+  When to use: Anytime material feels dull or abstract.
+
+13. Keyword Method
+
+  What it is: Associating a foreign word with a familiar keyword.
+  How: Spanish “pato” (duck) → imagine duck with a pot.
+  Best for: Language learning, vocabulary.
+  When to use: Early stages of learning new words.
+
+14. Mind Maps
+
+  What it is: Radial diagrams connecting ideas.
+  How: Start with central idea → branch out concepts.
+  Best for: Summaries, overviews, brainstorming.
+  When to use: When studying a broad subject or making connections.
+
+15. Generation Effect
+
+  What it is: Trying to answer before seeing the solution.
+  How: Predict outcomes, attempt problem-solving before reading.
+  Best for: Math, coding, science, problem-based subjects.
+  When to use: While practicing problems.
+
+16. Retrieval Practice (Self-Testing)
+
+  What it is: Turning learning into questions/tests.
+  How: Flashcards, practice tests, oral recitation.
+  Best for: Exam prep, factual recall, concept reinforcement.
+  When to use: Daily/weekly reviews.
+
+17. SQ3R (Survey, Question, Read, Recite, Review)
+
+  What it is: Structured reading strategy.
+  How: Skim headings → ask questions → read → recall → review.
+  Best for: Textbook-heavy subjects.
+  When to use: During first-time reading or revising large chapters.
+
+18. Error Logs
+
+  What it is: Recording mistakes + correct answers.
+  How: Keep a running list; convert errors into review questions.
+  Best for: Exams, programming, math, science.
+  When to use: After each practice/test session.
+
+19. Metacognitive Monitoring
+
+  What it is: Checking if you really know something.
+  How: Rate confidence after recall; flag weak areas.
+  Best for: Self-awareness in study progress.
+  When to use: At the end of study sessions.
+
+20. Mnemonics & Acronyms
+
+  What it is: Using phrases or initials to recall sequences.
+  How: “PEMDAS = Parentheses, Exponents, Multiplication, Division, Addition, Subtraction.”
+  Best for: Order of operations, lists, formulas.
+  When to use: Quick recall of ordered or related terms.
